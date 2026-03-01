@@ -11,7 +11,7 @@
 <br />
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Use Cases](https://img.shields.io/badge/usecases-29-blue?style=flat-square)
+![Use Cases](https://img.shields.io/badge/usecases-30-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/hesamsheikh/awesome-openclaw-usecases?label=Last%20Update&style=flat-square)
 </div>
 
@@ -42,6 +42,7 @@
 | [目标驱动的自主任务](usecases/overnight-mini-app-builder.md) | 倾泻你的目标，让智能体自主生成、安排并完成每日任务 —— 包括在一夜之间构建惊喜的迷你应用。 |
 | [YouTube 内容流水线](usecases/youtube-content-pipeline.md) | 为 YouTube 频道自动化视频创意发掘、研究和追踪。 |
 | [多智能体内容工厂](usecases/content-factory.md) | 在 Discord 中运行多智能体内容流水线 —— 研究、写作和缩略图智能体在专用频道中协同工作。 |
+| [自主游戏开发流水线](usecases/autonomous-game-dev-pipeline.md) | 教育类游戏开发的完整生命周期管理：从积压工作选择到实现、注册、文档记录和 git 提交。强制执行“错误优先”策略。 |
 
 ## 基础设施与 DevOps
 
@@ -100,4 +101,4 @@
 ---
 
 **原文链接**: [README.md](README.md)  
-**最后同步**: 2026-02-18
+**最后同步**: 2026-02-26
